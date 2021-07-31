@@ -25,3 +25,8 @@ iOS 개발자입니다.
 - 때때로 또
 - 타이머즈 (예정)
 - 바코드랍 (예정)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zer95&show_icons=true&theme=dracula)
+
+
