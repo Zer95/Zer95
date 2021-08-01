@@ -17,13 +17,13 @@ iOS 개발자입니다.
 포트폴리오
 
 - NowTalk
-- 바코드랍
+- [바코드랍](https://github.com/Zer95/iOS-PROJECT-Barcodrop)
 - 드림즈 (예정)
 
 
 개인 출시 앱
 
-- 때때로 또
+- [때때로 또](https://github.com/Zer95/iOS-PROJECT-sometimesLotto)
 - 타이머즈 (예정)
 - 바코드랍 (예정)
 
