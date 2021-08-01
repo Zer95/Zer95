@@ -23,7 +23,7 @@ iOS 개발자입니다.
 
 개인 출시 앱
 
-- [때때로 또](https://github.com/Zer95/iOS-PROJECT-sometimesLotto)
+- 때때로 또 (예정)
 - 타이머즈 (예정)
 - 바코드랍 (예정)
 
