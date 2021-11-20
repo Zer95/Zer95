@@ -21,13 +21,6 @@ iOS 개발자입니다.
 - Dreams (진행중)
 
 
-개인 출시 앱
-
-- 때때로 또 
-- 타이머즈 (예정)
-- 바코드랍 (예정)
-
-
 <br>
 now
 <br>
@@ -43,4 +36,14 @@ future
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zer95&show_icons=true&theme=dracula)
+
+
+<!-->
+
+개인 출시 앱
+
+- 때때로 또 
+- 타이머즈 (예정)
+- 바코드랍 (예정)
+
 
