@@ -18,7 +18,7 @@ iOS 개발자입니다.
 
 - [Barcodrop](https://github.com/Zer95/iOS-PROJECT-Barcodrop)
 - [NowTalk](https://github.com/Zer95/iOS-PROJECT-NowTalk)
-- Dreams (진행중)
+- Dreams 
 
 
 <br>
@@ -38,12 +38,5 @@ future
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zer95&show_icons=true&theme=dracula)
 
 
-<!-->
-
-개인 출시 앱
-
-- 때때로 또 
-- 타이머즈 (예정)
-- 바코드랍 (예정)
 
 
