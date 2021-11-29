@@ -11,14 +11,7 @@ iOS 개발자입니다.
 
 - 정보처리기사
 - 컴퓨터활용능력 1급
-- 워드프로세스 1급
 
-
-포트폴리오
-
-- [Barcodrop](https://github.com/Zer95/iOS-PROJECT-Barcodrop)
-- [NowTalk](https://github.com/Zer95/iOS-PROJECT-NowTalk)
-- Dreams 
 
 
 <br>
