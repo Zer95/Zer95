@@ -12,7 +12,20 @@ iOS 개발자입니다.
 - 정보처리기사
 - 컴퓨터활용능력 1급
 
+개인 프로젝트
 
+- NowTalk
+- Barcodrop
+- Dreams
+
+개인 출시 앱
+
+- somtimesLotto
+- Timers
+
+- 2022 Project 1
+- 2022 Project 2
+- 2022 Project 3
 
 <br>
 now
