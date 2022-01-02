@@ -1,4 +1,9 @@
-iOS 개발자입니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Zer95%20____&desc=iOS%20Developer&fontSize=55&fontColor=FFFFFF&fontAlign=25&fontAlignY=40&descSize=15&descAlign=15&animation=fadeIn)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Zer95+GitHub+😃;I'm+iOS+Developer+🧑🏻‍💻;&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
 
 프로젝트 경력
 
